@@ -1,0 +1,5 @@
+/home/hudson/Documents/Dev/CURSO C#/Segundo Desafio Nelio Alves C#/2-Programa 2-Desafio/obj/Debug/net7.0/2-Programa 2-Desafio.csproj.AssemblyReference.cache
+/home/hudson/Documents/Dev/CURSO C#/Segundo Desafio Nelio Alves C#/2-Programa 2-Desafio/obj/Debug/net7.0/2-Programa 2-Desafio.GeneratedMSBuildEditorConfig.editorconfig
+/home/hudson/Documents/Dev/CURSO C#/Segundo Desafio Nelio Alves C#/2-Programa 2-Desafio/obj/Debug/net7.0/2-Programa 2-Desafio.AssemblyInfoInputs.cache
+/home/hudson/Documents/Dev/CURSO C#/Segundo Desafio Nelio Alves C#/2-Programa 2-Desafio/obj/Debug/net7.0/2-Programa 2-Desafio.AssemblyInfo.cs
+/home/hudson/Documents/Dev/CURSO C#/Segundo Desafio Nelio Alves C#/2-Programa 2-Desafio/obj/Debug/net7.0/2-Programa 2-Desafio.csproj.CoreCompileInputs.cache
